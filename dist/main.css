@@ -98,20 +98,20 @@ button::before {
 }
 
 button:hover::before {
-    visibility: visible;
-    transform: scaleX(1);
+  visibility: visible;
+  transform: scaleX(1);
 }
 
 #contact-box {
-    background-color: rgba(120, 20, 20, 0.8);
-    position: relative;
-    width: 55%;
-    height: auto;
-    margin: auto;
-    padding: 4rem;
-    margin-top: 5rem;
-    border-radius: 30px;
-    text-align: center;
+  background-color: rgba(120, 20, 20, 0.8);
+  position: relative;
+  width: 55%;
+  height: auto;
+  margin: auto;
+  padding: 4rem;
+  margin-top: 5rem;
+  border-radius: 30px;
+  text-align: center;
 }
 
 @keyframes fadeIn {
